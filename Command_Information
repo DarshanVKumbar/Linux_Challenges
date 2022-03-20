@@ -1,0 +1,4 @@
+  1.stat will discover that it will show file statistics of myfile.txt
+  2.df will show disk utilization of the root file system in a human-readable way
+  3.apropos "search for files"
+  4.-m option will show output in a comma-separated list
